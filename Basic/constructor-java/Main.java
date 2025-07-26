@@ -27,7 +27,7 @@ class Student {
 public class Main
 {
     public static void main(String[] args) {
-     Student s1 = new Student("Nadia", 20);
+     Student s1 = new Student("Iftakhar", 23);
         Student s2 = new Student(s1,242);
         s1.display();
         s2.display();
